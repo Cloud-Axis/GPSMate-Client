@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">GPS Mate Client</string>
+  <string name="app_logo">GPS Mate </string>
+  <string name="shortcut_start">සේවාව ක්රියාත්මක කරන්න</string>
+  <string name="shortcut_stop">සේවාව අක්රිය කරන්න</string>
+  <string name="shortcut_sos">Send SOS</string>
+  <string name="settings_id_title">උපකරණ හඳුන්වනය</string>
+  <string name="settings_interval_title">සංඛ්‍යාතය</string>
+  <string name="settings_interval_summary">සංඥා අතර පරතරය</string>
+  <string name="settings_status_title">සේවා තත්වය</string>
+  <string name="settings_status_off">ඇරැඹීම</string>
+  <string name="settings_status_on">නැවතීම</string>
+  <string name="settings_status_off_summary">සේවාව අක්‍රීයයි</string>
+  <string name="settings_status_on_summary">සේවාව ක්‍රියාත්මකයි</string>
+  <string name="settings_foreground_title">Foreground service</string>
+  <string name="settings_foreground_summary">Increase service priority</string>
+
+  <string name="settings_distance_title">දුර</string>
+  <string name="menu_status">තත්වය</string>
+  <string name="menu_shortcuts">කෙටි මං එකතු කරන්න</string>
+  <string name="menu_clear">හිස් කරන්න</string>
+  <string name="status_send_fail">යැවිය නොහැකිය</string>
+  <string name="status_location_update">Location update</string>
+  <string name="hidden_app_name">උපකරණ සැකසුම්</string>
+  <string name="channel_default">Primary Channel</string>
+  <string name="settings_url_title">සේවාදායක ලිපිනය</string>
+  <string name="settings_url_summary">GPS Mate සේවාදායක ලිපිනය</string>
+  <string name="settings_distance_summary">සංඥා අතර දුර මීටර් වලින්</string>
+  <string name="settings_angle_title">Angle</string>
+  <string name="settings_angle_summary">Reporting angle in degrees</string>
+  <string name="settings_buffer">Offline buffering</string>
+  <string name="settings_buffer_off_summary">Buffering off</string>
+  <string name="settings_buffer_on_summary">Buffering on</string>
+  <string name="settings_wakelock">Wake lock</string>
+  <string name="settings_wakelock_off_summary">Wake lock off</string>
+  <string name="settings_wakelock_on_summary">Wake lock on</string>
+  <string name="settings_accuracy_title">ස්ථානයේ නිරවද්‍යතාවය</string>
+  <string name="settings_accuracy_summary">ස්ථානයේ නිරවද්‍යතා සැකසුම</string>
+  <string name="settings_accuracy_high">ඉහළ</string>
+  <string name="settings_accuracy_medium">මධ්‍යම</string>
+  <string name="settings_accuracy_low">පහළ</string>
+  <string name="status_service_create">සේවාව දැන් ක්‍රියාත්මකයි</string>
+  <string name="status_service_destroy">සේවාව දැන් අක්රීයයි</string>
+  <string name="status_send_success">පණිවිඩය යැවීම සාර්ථකයි</string>
+  <string name="status_network_online">දුරකථන ජාලය සම්බන්ධිතයි</string>
+  <string name="status_network_offline">දුරකථන ජාලය අක්රියයි</string>
+  <string name="hidden_alert">The app has been hidden. To open it again please dial 8722227 (TRACCAR).</string>
+  <string name="error_msg_invalid_url">Please enter a valid http:// or https:// URL</string>
+</resources>
